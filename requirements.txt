@@ -1,0 +1,8 @@
+# Floors, not exact pins: Streamlit Cloud installs its own current Python,
+# and pandas==1.5.3 has no prebuilt wheel there, so pip tries to build it
+# from source and the install step fails outright ("installer returned a
+# non-zero exit code"). This app doesn't rely on any pandas 1.5.3-only
+# behavior, so it runs fine on whatever 1.x/2.x Cloud resolves.
+streamlit>=1.30
+pandas>=1.5
+plotly>=5.9

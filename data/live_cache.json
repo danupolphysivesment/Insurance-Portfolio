@@ -1,0 +1,258 @@
+{
+  "health": {
+    "fetched_at": 1787890400.5366359,
+    "results": [
+      {
+        "insurer": "AIA ประเทศไทย",
+        "url": "https://www.aia.co.th/th/our-products/health/aia-health-saver",
+        "ok": true,
+        "plans": [
+          {
+            "plan_name": "AIA Health Saver",
+            "room_rate_per_day_thb": 1500,
+            "annual_coverage_limit_thb": 500000,
+            "deductible_thb": 0,
+            "annual_premium_thb": 6900
+          },
+          {
+            "plan_name": "AIA Health Saver 300,000",
+            "room_rate_per_day_thb": 2000,
+            "annual_coverage_limit_thb": 300000,
+            "deductible_thb": 0,
+            "annual_premium_thb": 8700
+          },
+          {
+            "plan_name": "AIA Health Saver 400,000",
+            "room_rate_per_day_thb": 3000,
+            "annual_coverage_limit_thb": 400000,
+            "deductible_thb": 0,
+            "annual_premium_thb": 9700
+          },
+          {
+            "plan_name": "AIA Health Saver 500,000",
+            "room_rate_per_day_thb": 4000,
+            "annual_coverage_limit_thb": 500000,
+            "deductible_thb": 0,
+            "annual_premium_thb": 10800
+          }
+        ],
+        "product_summary": "AIA Health Saver offers tailored health insurance solutions with various coverage limits, room rates, and premiums to suit different needs.",
+        "error": "",
+        "fetched_at": 1787890363.463736
+      },
+      {
+        "insurer": "เมืองไทยประกันชีวิต (MTL)",
+        "url": "https://www.muangthai.co.th/th/health-insurance/extra-care-plus",
+        "ok": true,
+        "plans": [
+          {
+            "plan_name": "เอ็กซ์ตร้าแคร์ พลัส",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 500000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null
+          }
+        ],
+        "product_summary": "สุขภาพต้องดูแล อย่าลืมให้คุ้มครองสุขภาพที่ให้คุณได้มากกว่า โดยโครงการเอ็กซ์ตร้า แคร์ พลัส จากเมืองไทยประกันชีวิต คุ้มครองแบบเหมาจ่ายตามจริงสูงสุดถึง 500,000 บาท",
+        "error": "",
+        "fetched_at": 1787890367.31559
+      },
+      {
+        "insurer": "พรูเด็นเชียล ประเทศไทย",
+        "url": "https://online.prudential.co.th/ais/prueeasyhealthextra",
+        "ok": true,
+        "plans": [
+          {
+            "plan_name": "แผน 1",
+            "room_rate_per_day_thb": 2000,
+            "annual_coverage_limit_thb": 200000,
+            "deductible_thb": 60000,
+            "annual_premium_thb": 4979
+          },
+          {
+            "plan_name": "แผน 2",
+            "room_rate_per_day_thb": 4000,
+            "annual_coverage_limit_thb": 400000,
+            "deductible_thb": 60000,
+            "annual_premium_thb": 7715
+          },
+          {
+            "plan_name": "แผน 3",
+            "room_rate_per_day_thb": 5000,
+            "annual_coverage_limit_thb": 500000,
+            "deductible_thb": 60000,
+            "annual_premium_thb": 9609
+          }
+        ],
+        "product_summary": "PRU eEasyHealthExtra ช่วยคุมค่าใช้จ่ายจากการเจ็บป่วย ด้วยแผนความคุ้มครองสุขภาพสูงสุดถึง 500,000 บาท และเบี้ยประกันภัยเริ่มต้นเพียง 14 บาท/วัน สำหรับลูกค้าเพศชาย อายุ 30 ปี.",
+        "error": "",
+        "fetched_at": 1787890370.9919949
+      },
+      {
+        "insurer": "เอฟดับบลิวดี ประกันชีวิต (FWD)",
+        "url": "https://www.fwd.co.th/th/health-insurance/easy-e-health/",
+        "ok": true,
+        "plans": [
+          {
+            "plan_name": "Basic",
+            "room_rate_per_day_thb": 1500,
+            "annual_coverage_limit_thb": 500000,
+            "deductible_thb": 0,
+            "annual_premium_thb": 12659
+          },
+          {
+            "plan_name": "Standard",
+            "room_rate_per_day_thb": 3000,
+            "annual_coverage_limit_thb": 1000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": 24471
+          },
+          {
+            "plan_name": "Advance",
+            "room_rate_per_day_thb": 4500,
+            "annual_coverage_limit_thb": 1500000,
+            "deductible_thb": 0,
+            "annual_premium_thb": 35164
+          }
+        ],
+        "product_summary": "Easy E-Health เป็นประกันสุขภาพที่ดูแลค่ารักษาพยาบาลแบบไม่มีลิมิต โดยไม่ต้องตรวจสุขภาพ สามารถปรับแต่งแผนประกันได้ตามต้องการ มีเบี้ยประกันเริ่มต้นที่หลากหลายและความคุ้มครองที่เหมาะสมกับความต้องการของลูกค้า",
+        "error": "",
+        "fetched_at": 1787890375.875825
+      },
+      {
+        "insurer": "กรุงไทย-แอกซ่า ประกันชีวิต",
+        "url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/ihealthy-ultra",
+        "ok": true,
+        "plans": [
+          {
+            "plan_name": "Smart",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 3000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          },
+          {
+            "plan_name": "Bronze",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 10000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          },
+          {
+            "plan_name": "Silver",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 15000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          },
+          {
+            "plan_name": "Gold",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 25000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          },
+          {
+            "plan_name": "Diamond",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 70000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          },
+          {
+            "plan_name": "Platinum",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 100000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          }
+        ],
+        "product_summary": "iHealthy Ultra เป็นแบบประกันสุขภาพที่มีมาตรฐานและความคุ้มครองสูงถึง 100 ล้านบาทต่อปี สามารถเลือกแผนความคุ้มครองที่เหมาะสมและมีตัวเลือกหลากหลาย สามารถใช้ในการรักษาสุขภาพทั้งผู้ป่วยในและผู้ป่วยนอก รวมถึงคุ้มครองค่ารักษาพยาบาลในกรณีฉุกเฉินในต่างประเทศ.",
+        "error": "",
+        "fetched_at": 1787890382.283714
+      },
+      {
+        "insurer": "อลิอันซ์ อยุธยา ประกันชีวิต",
+        "url": "https://www.allianz.co.th/th_TH/health/lump-sum/ultracare.html",
+        "ok": true,
+        "plans": [
+          {
+            "plan_name": "Standard",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 60000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          },
+          {
+            "plan_name": "Select",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 100000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          },
+          {
+            "plan_name": "Comprehensive",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 160000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          },
+          {
+            "plan_name": "Elite",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 200000000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          }
+        ],
+        "product_summary": "International medical insurance for you and your family, offering coverage from THB 10 million up to THB 200 million, providing worldwide coverage and no upfront payment needed for in-network hospitalization.",
+        "error": "",
+        "fetched_at": 1787890395.09253
+      },
+      {
+        "insurer": "กรุงเทพประกันชีวิต",
+        "url": "https://www.bangkoklife.com/online/th/product/completehealth",
+        "ok": true,
+        "plans": [
+          {
+            "plan_name": "แผน 1",
+            "room_rate_per_day_thb": 2500,
+            "annual_coverage_limit_thb": 300000,
+            "deductible_thb": 0,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          },
+          {
+            "plan_name": "แผน 2",
+            "room_rate_per_day_thb": 4000,
+            "annual_coverage_limit_thb": 500000,
+            "deductible_thb": 30000,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          },
+          {
+            "plan_name": "แผน 3",
+            "room_rate_per_day_thb": null,
+            "annual_coverage_limit_thb": 5000000,
+            "deductible_thb": 100000,
+            "annual_premium_thb": null,
+            "premium_note": "พบเบี้ยตัวอย่างเดียวบนหน้าเว็บ ไม่แยกตามแผน"
+          }
+        ],
+        "product_summary": "ประกันสุขภาพออนไลน์ บีแอลเอ คอมพลีท เฮลธ์ ให้ความคุ้มครองค่ารักษาพยาบาลสูงสุด 5,000,000 บาทต่อครั้งไม่จำกัดจำนวนครั้งต่อปี สำหรับแผนความคุ้มครอง 3.",
+        "error": "",
+        "fetched_at": 1787890400.535888
+      }
+    ]
+  }
+}
